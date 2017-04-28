@@ -1,0 +1,4 @@
+[debug] Copy resource mappings: 
+[debug] 	(/home/andi/Documents/FH/4Sem/SSW Entwicklung/Projekt/Projektverwaltung/conf/logback.xml,/home/andi/Documents/FH/4Sem/SSW Entwicklung/Projekt/Projektverwaltung/target/scala-2.11/classes/logback.xml)
+[debug] 	(/home/andi/Documents/FH/4Sem/SSW Entwicklung/Projekt/Projektverwaltung/conf/routes,/home/andi/Documents/FH/4Sem/SSW Entwicklung/Projekt/Projektverwaltung/target/scala-2.11/classes/routes)
+[debug] 	(/home/andi/Documents/FH/4Sem/SSW Entwicklung/Projekt/Projektverwaltung/conf/application.conf,/home/andi/Documents/FH/4Sem/SSW Entwicklung/Projekt/Projektverwaltung/target/scala-2.11/classes/application.conf)
